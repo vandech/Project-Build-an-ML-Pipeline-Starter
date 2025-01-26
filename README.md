@@ -1,3 +1,8 @@
+# Link to my D501 ML Pipeline Project in Weights and Biases:
+
+https://wandb.ai/ndechi2009-western-governors-university/nyc_airbnb?nw=nwuserndechi2009
+
+
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
 time on various rental platforms. You need to estimate the typical price for a given property based 
